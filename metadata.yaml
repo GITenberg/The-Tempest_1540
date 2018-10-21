@@ -1,5 +1,5 @@
 _repo: The-Tempest_1540
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -34,5 +34,6 @@ subjects:
 - !lcc 'PR'
 - !lcsh 'Spirits -- Drama'
 - !lcsh 'Shipwreck victims -- Drama'
+- GITenberg
 title: The Tempest
 url: http://www.gutenberg.org/ebooks/1540
